@@ -11,6 +11,7 @@
 - BootStrap
 
 ## Available Scripts
+**Dowload the Project and**
 _In the Project directory you can run_
 
 #### npm install
